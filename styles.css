@@ -1,0 +1,28 @@
+body{
+font-family: arial;
+}
+
+h1,h2{
+    color: brown;
+}
+
+h1{
+    font-size: 20pt;
+}
+
+h2{
+    font-size: 18pt;
+}
+
+p{
+
+}
+
+img{
+  max-width: 1000px;
+  min-width: 400px;
+}
+
+ul.contact{
+  
+}
