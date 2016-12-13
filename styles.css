@@ -2,7 +2,7 @@ body{
 font-family: arial;
 }
 
-h1,h2{
+h1,h2,h3{
     color: brown;
 }
 
@@ -12,6 +12,10 @@ h1{
 
 h2{
     font-size: 18pt;
+}
+
+h3{
+    font-size: 14pt;
 }
 
 p{
