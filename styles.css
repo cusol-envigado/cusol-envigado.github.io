@@ -30,9 +30,18 @@ nav a {
 }
 
 header {
-  background-color: white;
+  background-color: white; 
     padding: 20px;
     margin-top: 20px;
+}
+
+header div{
+  display: flex;
+  flex-direction: row;
+}
+
+header div span {
+  flex: 1 1 auto;
 }
 
 header p {
@@ -68,10 +77,6 @@ p{
  line-height: 1.5;
 }
 
-img{
-  max-width: 1000px;
-  min-width: 400px;
-}
 
 li {
   line-height: 1.5;
