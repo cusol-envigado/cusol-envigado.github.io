@@ -1,0 +1,82 @@
+# Blender MTL File: 'building.blend'
+# Material Count: 7
+
+newmtl concrete.001
+Ns 43.137255
+Ka 1.000000 1.000000 1.000000
+Kd 0.167271 0.149683 0.115014
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/AJ/Desktop/Projects/textures/Concrete/ConcreteBare0022_4_S.jpg
+map_Bump C:/Users/AJ/Desktop/Projects/textures/Concrete/ConcreteBare0022_4_S.jpg
+
+newmtl concrete.001_NONE
+Ns 43.137255
+Ka 1.000000 1.000000 1.000000
+Kd 0.167271 0.149683 0.115014
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump C:/Users/AJ/Desktop/Projects/textures/Concrete/ConcreteBare0022_4_S.jpg
+map_Kd C:/Users/AJ/Desktop/Projects/textures/Concrete/ConcreteBare0022_4_S.jpg
+
+newmtl glass.001
+Ns 231.372549
+Ka 0.106952 0.106952 0.106952
+Kd 0.600702 0.698664 0.717005
+Ks 0.641711 0.641711 0.641711
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl stone_white.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/AJ/Desktop/Projects/textures/Rock/RockSmooth0071_7_S.jpg
+map_Bump C:/Users/AJ/Desktop/Projects/textures/Rock/RockSmooth0071_7_S.jpg
+
+newmtl walls.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.492420 0.134814 0.037509
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/AJ/Desktop/Projects/textures/Brick/BrickLargeBrown0019_5_S.jpg
+map_Bump C:/Users/AJ/Desktop/Projects/textures/Brick/BrickLargeBrown0019_5_S.jpg
+
+newmtl wood_block_white
+Ns 11.764706
+Ka 1.000000 1.000000 1.000000
+Kd 0.824845 0.817909 0.617336
+Ks 0.003106 0.003106 0.003106
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl wood_brown.001
+Ns 100.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.136050 0.062843 0.055905
+Ks 0.074866 0.074866 0.074866
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/AJ/Desktop/Projects/textures/Wood/WoodRough0050_3_S.jpg
+map_Bump C:/Users/AJ/Desktop/Projects/textures/Wood/WoodRough0050_3_S.jpg

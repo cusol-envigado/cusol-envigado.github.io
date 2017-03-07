@@ -1,0 +1,23 @@
+{
+  "name": "cusol-envigado.github.io",
+  "version": "1.0.0",
+  "description": "cusol-envigado website",
+  "main": "index.js",
+  "dependencies": {
+    "framework7": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusol-envigado/cusol-envigado.github.io.git"
+  },
+  "author": "cesarpachon@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusol-envigado/cusol-envigado.github.io/issues"
+  },
+  "homepage": "https://github.com/cusol-envigado/cusol-envigado.github.io#readme"
+}

@@ -27,11 +27,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="103.1264"
-     inkscape:cy="520.89847"
+     inkscape:cx="617.39102"
+     inkscape:cy="583.51854"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="in"
      borderlayer="true"
      inkscape:window-width="1535"
@@ -40,7 +40,14 @@
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3436" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -49,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,124 +68,117 @@
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
        id="rect3420"
-       width="729.44397"
-       height="960.6347"
-       x="14.978969"
-       y="72.36132" />
+       width="765.15826"
+       height="992.06329"
+       x="-2.1638885"
+       y="62.36132" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta010.png"
        xlink:href="vineta010.png"
-       y="781.22949"
-       x="42.173126"
-       id="image3417"
+       width="530.2041"
+       height="185.57143"
        preserveAspectRatio="none"
-       height="241.42857"
-       width="689.7959" />
+       id="image3417"
+       x="36.254753"
+       y="836.3009" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
        id="rect4222"
-       width="184.91948"
-       height="38.867283"
-       x="43.347378"
-       y="782.41656" />
+       width="142.13634"
+       height="29.874912"
+       x="37.15733"
+       y="837.21332" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="219.14189"
-       y="810.9881"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.37278175px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.27986"
+       y="859.17456"
        id="text4224"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="224.06377"
-         y="810.9881"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         x="176.063"
+         y="859.17456"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.29437828px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
          id="tspan4236">Juntos está bien. </tspan></text>
     <rect
-       y="981.65662"
-       x="43.2038"
-       height="38.867283"
-       width="216.14499"
+       y="990.35699"
+       x="37.046974"
+       height="29.874912"
+       width="166.13748"
        id="rect4311"
        style="opacity:1;fill:#000000;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078" />
     <text
        sodipodi:linespacing="125%"
        id="text4242"
-       y="1005.3506"
-       x="244.92798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="1008.5692"
+       x="192.10005"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.37278175px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:transform-center-x="-40.406102"
-       inkscape:transform-center-y="1.0101525"><tspan
+       inkscape:transform-center-x="-31.057697"
+       inkscape:transform-center-y="0.77648599"><tspan
          id="tspan4254"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="1005.3506"
-         x="244.92798"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.37278175px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         y="1008.5692"
+         x="192.10005"
          sodipodi:role="line">juntos es más seguro.</tspan></text>
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
-       id="rect4313"
-       width="187.21461"
-       height="171.72443"
-       x="533.2038"
-       y="830.5152" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="692.4472"
-       y="874.65741"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.27779388px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="724.50549"
+       y="881.10187"
        id="text4258"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="696.8222"
-         y="874.65741"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         x="729.37878"
+         y="881.10187"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.84724236px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
          id="tspan4264">P<tspan
-   style="font-size:20px"
+   style="font-size:22.27779388px"
    id="tspan4392">ero entonces, </tspan></tspan><tspan
          sodipodi:role="line"
-         x="696.8222"
-         y="900.93604"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         x="729.37878"
+         y="910.37335"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.27779388px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
          id="tspan4266">Por qué me </tspan><tspan
          sodipodi:role="line"
-         x="696.8222"
-         y="925.93604"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         x="729.37878"
+         y="938.22064"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.27779388px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
          id="tspan4268">siento sólo, en </tspan><tspan
          sodipodi:role="line"
-         x="696.8222"
-         y="950.93604"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         x="729.37872"
+         y="966.06787"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.27779388px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
          id="tspan4319">medio de esta </tspan><tspan
          sodipodi:role="line"
-         x="692.4472"
-         y="975.93604"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         x="724.50549"
+         y="993.9151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.27779388px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
          id="tspan4270"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.27779388px;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold'"
    id="tspan4272">multitud</tspan>?</tspan></text>
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta003.png"
        xlink:href="vineta003.png"
-       y="165.78543"
-       x="396.40616"
-       id="image4383"
+       width="410.59494"
+       height="205.29747"
        preserveAspectRatio="none"
-       height="226.93683"
-       width="324.1955" />
+       id="image4313"
+       x="343.27396"
+       y="175.42778" />
     <text
        sodipodi:linespacing="125%"
        id="text4388"
-       y="384.31589"
-       x="713.92285"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="366.85181"
+       x="735.2785"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.44277573px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4390"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="384.31589"
-         x="713.92285"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.80347252px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         y="366.85181"
+         x="735.2785"
          sodipodi:role="line">ya soy uno más.<tspan
-   style="font-size:20px"
+   style="font-size:17.44277573px"
    id="tspan4394" /></tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -195,32 +195,84 @@
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta001.png"
        xlink:href="vineta001.png"
-       y="165.69223"
-       x="35.733715"
-       id="image4462"
+       width="173.7838"
+       height="202.74777"
        preserveAspectRatio="none"
-       height="232.47189"
-       width="199.26161" />
+       id="image4462"
+       x="33.803432"
+       y="177.61017" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.67471"
-       y="189.61389"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.44277573px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.42204"
+       y="198.47318"
        id="text4467"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="194.67471"
-         y="189.61389"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         x="172.42204"
+         y="198.47318"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.80347252px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
          id="tspan4469">un nuevo dia..</tspan></text>
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta002.png"
        xlink:href="vineta002.png"
-       y="164.33176"
-       x="248.59998"
-       id="image4535"
+       width="115.85587"
+       height="202.74777"
        preserveAspectRatio="none"
-       height="232.47189"
-       width="132.84108" />
+       id="image4535"
+       x="219.45235"
+       y="176.42365" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta004.png"
+       xlink:href="vineta004.png"
+       width="395.01697"
+       height="197.50848"
+       preserveAspectRatio="none"
+       id="image3433"
+       x="33.754902"
+       y="397.39978" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:0.71757926;stroke:#00ffff;stroke-width:2.87325335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
+       id="rect4238"
+       width="89.92675"
+       height="194.21248"
+       x="-98.534805"
+       y="183.82735" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4238"
+       id="use4240"
+       transform="translate(1.4285719,217.14287)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4240"
+       id="use4242"
+       transform="translate(-4.2857141,217.14292)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4242"
+       id="use4244"
+       transform="translate(1.4285719,217.14284)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.44277573px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="152.42136"
+       y="421.13751"
+       id="text4316"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="157.19087"
+         y="421.13751"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.80347252px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan4318">y uno más.. </tspan></text>
   </g>
 </svg>
