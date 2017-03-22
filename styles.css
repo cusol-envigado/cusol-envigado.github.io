@@ -33,6 +33,7 @@ header {
   background-color: white; 
     padding: 20px;
     margin-top: 20px;
+box-shadow: 5px 5px 4px 0px rgba(100, 100, 100, 0.5);
 }
 
 header div{
@@ -47,6 +48,7 @@ flex: 1 1 auto;
 header p {
 text-align: center; 
 }
+}
 
 
 h1,h2,h3{
@@ -57,19 +59,26 @@ h1,h2,h3{
 h1{
 font-size: 20pt;
 text-align: center; 
+color: #7d0807;
 }
 
 h2{
 font-size: 16pt;
+color: #7d0807;
 }
 
 h3{
-  margin: 40px 0 20px 0; 
-font-size: 12pt;
+  margin: 50px 0 20px 0; 
+  font-size: 12pt;
+  background-color: #7d0807;
+  padding: 8px;
+  border-radius: 10px;
+  color: #dead07;
 }
 
 section{
 background: white;
+box-shadow: 5px 5px 4px 0px rgba(100, 100, 100, 0.5);
 padding: 20px;
   margin: 40px 0;
 }
