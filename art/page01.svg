@@ -37,11 +37,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="510.94916"
-     inkscape:cy="663.67429"
+     inkscape:zoom="0.5"
+     inkscape:cx="-192.95434"
+     inkscape:cy="639.32181"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
      borderlayer="true"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,42 +92,42 @@
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/office.png"
        xlink:href="office.png"
-       transform="matrix(0.99999838,-0.00179981,9.2707973e-4,0.99999957,0,0)"
-       y="604.47485"
-       x="548.22046"
-       id="image4312"
-       preserveAspectRatio="none"
+       width="205.63716"
        height="214.88963"
-       width="205.63716" />
+       preserveAspectRatio="none"
+       id="image4312"
+       x="548.22046"
+       y="604.47485"
+       transform="matrix(0.99999838,-0.00179981,9.2707973e-4,0.99999957,0,0)" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/metro2.png"
        xlink:href="metro2.png"
-       transform="matrix(0.9999001,-0.01413456,0.01197581,0.99992829,0,0)"
-       y="611.89856"
-       x="228.9581"
-       id="image3534"
-       preserveAspectRatio="none"
+       width="323.89432"
        height="218.08124"
-       width="323.89432" />
+       preserveAspectRatio="none"
+       id="image3534"
+       x="228.9581"
+       y="611.89856"
+       transform="matrix(0.9999001,-0.01413456,0.01197581,0.99992829,0,0)" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/classroom2.png"
        xlink:href="classroom2.png"
-       transform="matrix(0.99995999,-0.00894557,0.0081063,0.99996714,0,0)"
-       y="607.92456"
-       x="31.24062"
-       id="image3449"
-       preserveAspectRatio="none"
+       width="214.87914"
        height="221.40392"
-       width="214.87914" />
+       preserveAspectRatio="none"
+       id="image3449"
+       x="31.24062"
+       y="607.92456"
+       transform="matrix(0.99995999,-0.00894557,0.0081063,0.99996714,0,0)" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta010.png"
        xlink:href="vineta010.png"
-       y="836.3009"
-       x="36.254753"
-       id="image3417"
-       preserveAspectRatio="none"
+       width="530.2041"
        height="185.57143"
-       width="530.2041" />
+       preserveAspectRatio="none"
+       id="image3417"
+       x="36.254753"
+       y="836.3009" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
        id="rect4222"
@@ -207,12 +207,12 @@
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta003.png"
        xlink:href="vineta003.png"
-       y="175.42778"
-       x="343.27396"
-       id="image4313"
-       preserveAspectRatio="none"
+       width="410.59494"
        height="205.29747"
-       width="410.59494" />
+       preserveAspectRatio="none"
+       id="image4313"
+       x="343.27396"
+       y="175.42778" />
     <text
        sodipodi:linespacing="125%"
        id="text4388"
@@ -242,12 +242,12 @@
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta001.png"
        xlink:href="vineta001.png"
-       y="177.61017"
-       x="33.803432"
-       id="image4462"
-       preserveAspectRatio="none"
+       width="173.7838"
        height="202.74777"
-       width="173.7838" />
+       preserveAspectRatio="none"
+       id="image4462"
+       x="33.803432"
+       y="177.61017" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.44277573px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -263,32 +263,32 @@
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta002.png"
        xlink:href="vineta002.png"
-       y="176.42365"
-       x="219.45235"
-       id="image4535"
-       preserveAspectRatio="none"
+       width="115.85587"
        height="202.74777"
-       width="115.85587" />
+       preserveAspectRatio="none"
+       id="image4535"
+       x="219.45235"
+       y="176.42365" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta004.png"
        xlink:href="vineta004.png"
-       y="397.39978"
-       x="33.754902"
-       id="image3433"
-       preserveAspectRatio="none"
+       width="395.01697"
        height="197.50848"
-       width="395.01697" />
+       preserveAspectRatio="none"
+       id="image3433"
+       x="33.754902"
+       y="397.39978" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/camara2.png"
        xlink:href="camara2.png"
-       mask="url(#mask4264)"
-       transform="matrix(0.99056496,0.13704404,-0.13704404,0.99056496,1,-5)"
-       width="507.5361"
-       height="392.79544"
-       preserveAspectRatio="none"
-       id="image3445"
+       y="143.63374"
        x="371.71338"
-       y="143.63374" />
+       id="image3445"
+       preserveAspectRatio="none"
+       height="392.79544"
+       width="507.5361"
+       transform="matrix(0.99056496,0.13704404,-0.13704404,0.99056496,1,-5)"
+       mask="url(#mask4264)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.44277573px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -450,7 +450,7 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path3424"
-         d="m 689.42974,145.0621 c 8.63846,-3.95648 15.04468,0.0858 15.04468,0.0858"
+         d="m 689.42974,145.0621 c 9.6373,-0.36065 15.04468,0.0858 15.04468,0.0858"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="zcz"
