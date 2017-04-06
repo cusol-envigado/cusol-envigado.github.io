@@ -8,3 +8,5 @@ https://www.flickr.com/photos/ajay_g/5986896929/
 https://www.flickr.com/photos/luke_stearns/2423067854/
 
 https://www.flickr.com/photos/susannatron/3302127661/
+
+https://openclipart.org/detail/27002/analog-clock
