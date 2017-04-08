@@ -32,6 +32,15 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="zzccccccz" />
     </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3485">
+      <path
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 61.829142,709.36224 103.341718,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.341718,0 C 48.627797,1015.3622 38,1004.7344 38,991.5331 l 0,-258.34171 c 0,-13.20135 10.627797,-23.82915 23.829142,-23.82915 z"
+         id="path3487"
+         inkscape:connector-curvature="0" />
+    </mask>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,8 +50,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="237.13831"
-     inkscape:cy="527.79767"
+     inkscape:cx="92.13831"
+     inkscape:cy="327.79767"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -107,12 +116,12 @@
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta_meeting.png"
        xlink:href="vineta_meeting.png"
-       width="379.91611"
-       height="280.1799"
-       preserveAspectRatio="none"
-       id="image4455"
+       y="97.074814"
        x="346.64374"
-       y="97.074814" />
+       id="image4455"
+       preserveAspectRatio="none"
+       height="280.1799"
+       width="379.91611" />
     <rect
        style="opacity:1;fill:#dead07;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4272"
@@ -221,14 +230,6 @@
        x="28.28426"
        y="439.72348"
        ry="2.180367" />
-    <rect
-       ry="4.3533187"
-       y="690.28192"
-       x="28.28426"
-       height="333.75443"
-       width="164.49541"
-       id="rect4280"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4288"
@@ -386,12 +387,12 @@
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta_planta.png"
        xlink:href="vineta_planta.png"
-       width="371.01556"
-       height="333.91403"
-       preserveAspectRatio="none"
-       id="image4256"
+       y="92.617203"
        x="32.01231"
-       y="92.617203" />
+       id="image4256"
+       preserveAspectRatio="none"
+       height="333.91403"
+       width="371.01556" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4460"
@@ -400,40 +401,63 @@
        x="849"
        y="359.36221" />
     <image
-       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/agro.png"
-       xlink:href="characters/agro.png"
-       width="111.55994"
-       height="229.35478"
-       preserveAspectRatio="none"
-       id="image4530"
-       x="50.712646"
-       y="772.65051" />
-    <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/BIKER.png"
        xlink:href="characters/BIKER.png"
-       width="94.809288"
-       height="225.28281"
-       preserveAspectRatio="none"
+       y="838.49384"
+       x="473.79251"
        id="image4592"
-       x="421.79251"
-       y="761.49384" />
+       preserveAspectRatio="none"
+       height="225.28281"
+       width="94.809288" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/biocons.png"
        xlink:href="characters/biocons.png"
-       width="123.49109"
-       height="217.52344"
-       preserveAspectRatio="none"
+       y="841.00403"
+       x="642.33777"
        id="image4654"
-       x="591.33777"
-       y="764.00403" />
+       preserveAspectRatio="none"
+       height="217.52344"
+       width="123.49109" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/references/urban_farming.jpg"
+       xlink:href="references/urban_farming.jpg"
+       mask="url(#mask3485)"
+       width="207.375"
+       height="368.66666"
+       preserveAspectRatio="none"
+       id="image3477"
+       x="11.312499"
+       y="664.02887" />
+    <path
+       id="path3493"
+       d="m -44.17086,707.36224 103.34172,0 C 72.3722,707.36224 83,717.99004 83,731.19139 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 C -57.3722,1013.3622 -68,1002.7344 -68,989.5331 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       clip-path="none" />
+    <path
+       id="path3483"
+       d="m -254.17086,704.36224 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 C -267.3722,1010.3622 -278,999.7344 -278,986.5331 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/maker.png"
        xlink:href="characters/maker.png"
-       width="95.606003"
-       height="236.38583"
-       preserveAspectRatio="none"
+       y="823.01221"
+       x="195.30829"
        id="image4716"
-       x="242.30829"
-       y="756.01221" />
+       preserveAspectRatio="none"
+       height="236.38583"
+       width="95.606003" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/agro.png"
+       xlink:href="characters/agro.png"
+       clip-path="none"
+       mask="none"
+       y="832.65051"
+       x="-79.287354"
+       id="image4530"
+       preserveAspectRatio="none"
+       height="229.35478"
+       width="111.55994" />
   </g>
 </svg>
