@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="page03.svg"
-   inkscape:export-filename="/home/cesar/projects/cusol-envigado.github.io/art/page02.png"
-   inkscape:export-xdpi="149.96019"
-   inkscape:export-ydpi="149.96019">
+   inkscape:export-filename="/home/cesar/projects/cusol-envigado.github.io/art/pages/page03.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs4">
     <mask
@@ -41,6 +41,93 @@
          id="path3487"
          inkscape:connector-curvature="0" />
     </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4244">
+      <path
+         id="path4246"
+         d="m 61.895158,707.36223 103.341722,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34176 c 0,13.20126 -10.6278,23.82906 -23.82914,23.82906 l -103.341722,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.82906 l 0,-258.34176 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4256">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 435.66262,719.39168 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34167 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34167 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4258" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4262">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 631.12684,700.1196 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.82914 -23.82914,23.82914 l -103.34172,0 c -13.20134,0 -23.82914,-10.62784 -23.82914,-23.82914 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4264" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4365">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 239.38968,715.67595 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.20129 -10.6278,23.82909 -23.82914,23.82909 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.82909 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4367" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4370">
+      <path
+         id="path4372"
+         d="m 219.66262,692.39168 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34167 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34167 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         mask="none"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4506">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.49685537;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 288.71558,1063.2587 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.8291 l 0,258.3417 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.3417 c 0,-13.2013 10.6278,-23.8291 23.82914,-23.8291 z"
+         id="path4508" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4510">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.49685537;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -288.71558,1063.2587 -103.34172,0 c -13.20134,0 -23.82914,10.6278 -23.82914,23.8291 l 0,258.3417 c 0,13.2013 10.6278,23.8291 23.82914,23.8291 l 103.34172,0 c 13.20134,0 23.82914,-10.6278 23.82914,-23.8291 l 0,-258.3417 c 0,-13.2013 -10.6278,-23.8291 -23.82914,-23.8291 z"
+         id="path4512" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4595">
+      <path
+         id="path4597"
+         d="m 574.55829,704.36224 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.58490571;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         mask="none"
+         clip-path="none" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,9 +136,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="92.13831"
-     inkscape:cy="327.79767"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="223.91886"
+     inkscape:cy="443.47052"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -105,115 +192,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-62.362205)">
-    <rect
-       ry="3.7481022"
-       y="93.348763"
-       x="341.21814"
-       height="287.35455"
-       width="388.41138"
-       id="rect4458"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta_meeting.png"
-       xlink:href="vineta_meeting.png"
-       y="97.074814"
-       x="346.64374"
-       id="image4455"
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/Earthship-construction17_(17302043844).jpg"
+       xlink:href="Earthship-construction17_(17302043844).jpg"
+       transform="translate(22.627417,7.7781746)"
+       clip-path="url(#clipPath4595)"
+       width="438.6889"
+       height="293.3732"
        preserveAspectRatio="none"
-       height="280.1799"
-       width="379.91611" />
-    <rect
-       style="opacity:1;fill:#dead07;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4272"
-       width="248.90158"
-       height="473.76154"
-       x="-309.71277"
-       y="46.856361"
-       rx="24.8573"
-       ry="24.6521" />
-    <rect
-       ry="18.280399"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
-       id="rect4402"
-       width="306.65744"
-       height="36.560799"
-       x="-326.03922"
-       y="193.66402" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4253"
-       y="325.01337"
-       x="-109.95295"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4263"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="325.01337"
-         x="-104.45344"
-         sodipodi:role="line">y el reloj </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="355.35541"
-         x="-104.45344"
-         sodipodi:role="line"
-         id="tspan3459">marca el ritmo </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="385.69745"
-         x="-104.45344"
-         sodipodi:role="line"
-         id="tspan4280">frenético </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="416.03949"
-         x="-104.45344"
-         sodipodi:role="line"
-         id="tspan3461">de una vida </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="446.38147"
-         x="-104.45344"
-         sodipodi:role="line"
-         id="tspan4282">que se agobia </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-         y="476.72351"
-         x="-109.95295"
-         sodipodi:role="line"
-         id="tspan3467">entre producción</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.27362633px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         y="507.06555"
-         x="-109.95295"
-         sodipodi:role="line"
-         id="tspan4284"><tspan
-   style="text-align:end;text-anchor:end"
-   id="tspan4176">y consumo</tspan>.</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4404"
-       y="218.33736"
-       x="-309.64105"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.27779388px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4406"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         y="218.33736"
-         x="-309.64105"
-         sodipodi:role="line">Lo siento! es que soy un emprendedor!</tspan></text>
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
-       d="m -138.28864,172.67168 -12.53189,0 c 1.21588,13.8161 -2.35327,18.39599 -7.02783,24.74695 13.94102,-3.38451 19.11989,-11.46698 19.55972,-24.74695 z"
-       id="rect4408"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:transform-center-x="134.21902"
-       inkscape:transform-center-y="17.297915" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect4408"
-       inkscape:transform-center-x="209.5"
-       inkscape:transform-center-y="-27"
-       id="use4413"
-       transform="matrix(-1,0,0,-1,377.33287,559.3626)"
-       width="100%"
-       height="100%"
-       style="fill:#ffffff" />
+       id="image4592-3"
+       x="414.20471"
+       y="705.42468" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/Bicycle_in_The_Hague_36.JPG"
+       xlink:href="Bicycle_in_The_Hague_36.JPG"
+       clip-path="url(#clipPath4510)"
+       transform="matrix(-1.0655596,0,0,1.0655596,102.86819,-449.09118)"
+       width="164.39636"
+       height="164.87944"
+       preserveAspectRatio="none"
+       id="image4436"
+       x="-415.99417"
+       y="1234.9296" />
     <rect
        style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4274"
@@ -226,173 +226,124 @@
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4278"
        width="707.10681"
-       height="167.16147"
+       height="175.16147"
        x="28.28426"
        y="439.72348"
-       ry="2.180367" />
-    <rect
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4288"
-       width="164.49541"
-       height="333.75443"
-       x="207.74051"
-       y="690.28192"
-       ry="4.3533187" />
-    <rect
-       ry="4.3533187"
-       y="690.28192"
-       x="387.19675"
-       height="333.75443"
-       width="164.49541"
-       id="rect4290"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4292"
-       width="164.49541"
-       height="333.75443"
-       x="566.65302"
-       y="690.28192"
-       ry="4.3533187" />
-    <rect
-       y="386.52814"
-       x="411.57098"
-       height="38.198437"
-       width="314.12454"
-       id="rect4311"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
-       ry="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.27566528px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="477.71667"
-       y="410.8291"
-       id="text4322"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="477.71667"
-         y="410.8291"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.97787285px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan4343">Pero ... quiénes son ustedes? </tspan></text>
+       ry="2.2847147" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="372.03668"
-       y="475.70227"
+       x="389.03668"
+       y="466.70227"
        id="text4294"
        sodipodi:linespacing="125%"><tspan
-         id="tspan4308"
          sodipodi:role="line"
-         x="372.03668"
-         y="475.70227"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff">Somos activistas.. personas que también</tspan><tspan
-         sodipodi:role="line"
-         x="374.78644"
-         y="506.04431"
+         x="391.31808"
+         y="466.70227"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
-         id="tspan4334">nos sentíamos inconformes y empezamos </tspan><tspan
+         id="tspan4625">Somos personas que también nos  sentíamos </tspan><tspan
          sodipodi:role="line"
-         x="374.78644"
-         y="536.38635"
+         x="391.31808"
+         y="491.87646"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
-         id="tspan4336">a generar cambios, cada uno desde </tspan><tspan
+         id="tspan4336">inconformes y empezamos a generar cambios, </tspan><tspan
          sodipodi:role="line"
-         x="374.78644"
-         y="566.72839"
+         x="391.31808"
+         y="517.05066"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
-         id="tspan4338">sus propios intereses y saberes.. </tspan></text>
+         id="tspan4338">cada uno desde  sus propios intereses y saberes.. </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4464283px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="39.325768"
-       y="627.38367"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.349869"
+       y="654.18671"
        id="text4340"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="39.325768"
-         y="627.38367"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         x="35.349869"
+         y="654.18671"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan4342">Cuando produces </tspan><tspan
          sodipodi:role="line"
-         x="39.325768"
-         y="648.76172"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="tspan4344">comida  en un huerto </tspan><tspan
+         x="35.349869"
+         y="676.99915"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan4344">comida  en un </tspan><tspan
          sodipodi:role="line"
-         x="39.325768"
-         y="670.13977"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="tspan4370">urbano..</tspan></text>
+         x="35.349869"
+         y="699.81165"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan4370">huerto urbano..</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4346"
-       y="626.91986"
-       x="212.33841"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4464283px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="653.69177"
+       x="210.97125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         id="tspan4350"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         y="626.91986"
-         x="212.33841"
-         sodipodi:role="line">cuando construyes y </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         y="648.29791"
-         x="212.33841"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="653.69177"
+         x="210.97125"
          sodipodi:role="line"
-         id="tspan4354">compartes cosas en </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         y="669.67596"
-         x="212.33841"
+         id="tspan4354">cuando creas y </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="676.50421"
+         x="210.97125"
          sodipodi:role="line"
-         id="tspan4356">vez de comprarlas.. </tspan></text>
+         id="tspan4356">compartes cosas </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="699.31671"
+         x="210.97125"
+         sodipodi:role="line"
+         id="tspan4617">en vez de comprar</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4464283px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="396.89328"
-       y="642.4762"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="386.9093"
+       y="656.29193"
        id="text4380"
        sodipodi:linespacing="125%"><tspan
          id="tspan4386"
          sodipodi:role="line"
-         x="396.89328"
-         y="642.4762"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Cuando te movilizas</tspan><tspan
+         x="386.9093"
+         y="656.29193"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Cuando te movilizas</tspan><tspan
          sodipodi:role="line"
-         x="396.89328"
-         y="663.85425"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         x="386.9093"
+         y="679.10437"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan4393">en bici diariamente..</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4395"
-       y="631.18335"
-       x="578.72021"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4464283px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="653.24133"
+       x="579.9364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         y="631.18335"
-         x="578.72021"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="653.24133"
+         x="579.9364"
          sodipodi:role="line"
          id="tspan4403">Cuando construyes</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         y="652.5614"
-         x="578.72021"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="676.05377"
+         x="579.9364"
          sodipodi:role="line"
          id="tspan4464">tu casa con tus </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.10243416px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         y="673.93945"
-         x="578.72021"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="698.86627"
+         x="579.9364"
          sodipodi:role="line"
          id="tspan4466">propias manos.. </tspan></text>
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta_planta.png"
        xlink:href="vineta_planta.png"
-       y="92.617203"
-       x="32.01231"
-       id="image4256"
+       width="362.53027"
+       height="326.27725"
        preserveAspectRatio="none"
-       height="333.91403"
-       width="371.01556" />
+       id="image4256"
+       x="28.01231"
+       y="91.849792" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4460"
@@ -401,63 +352,163 @@
        x="849"
        y="359.36221" />
     <image
-       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/BIKER.png"
-       xlink:href="characters/BIKER.png"
-       y="838.49384"
-       x="473.79251"
-       id="image4592"
-       preserveAspectRatio="none"
-       height="225.28281"
-       width="94.809288" />
-    <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/biocons.png"
        xlink:href="characters/biocons.png"
-       y="841.00403"
-       x="642.33777"
-       id="image4654"
-       preserveAspectRatio="none"
+       transform="translate(-3.6568543,10.928932)"
+       clip-path="url(#clipPath4262)"
+       width="123.49109"
        height="217.52344"
-       width="123.49109" />
+       preserveAspectRatio="none"
+       id="image4654"
+       x="642.33777"
+       y="841.00403" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/references/urban_farming.jpg"
        xlink:href="references/urban_farming.jpg"
-       mask="url(#mask3485)"
-       width="207.375"
-       height="368.66666"
-       preserveAspectRatio="none"
-       id="image3477"
+       y="664.02887"
        x="11.312499"
-       y="664.02887" />
-    <path
-       id="path3493"
-       d="m -44.17086,707.36224 103.34172,0 C 72.3722,707.36224 83,717.99004 83,731.19139 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 C -57.3722,1013.3622 -68,1002.7344 -68,989.5331 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:connector-curvature="0"
-       clip-path="none" />
-    <path
-       id="path3483"
-       d="m -254.17086,704.36224 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 C -267.3722,1010.3622 -278,999.7344 -278,986.5331 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <image
-       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/maker.png"
-       xlink:href="characters/maker.png"
-       y="823.01221"
-       x="195.30829"
-       id="image4716"
+       id="image3477"
        preserveAspectRatio="none"
-       height="236.38583"
-       width="95.606003" />
+       height="368.66666"
+       width="207.375"
+       mask="url(#mask3485)" />
     <image
        sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/agro.png"
        xlink:href="characters/agro.png"
-       clip-path="none"
-       mask="none"
-       y="832.65051"
-       x="-79.287354"
-       id="image4530"
-       preserveAspectRatio="none"
+       transform="translate(-3,-1)"
+       width="111.55994"
        height="229.35478"
-       width="111.55994" />
+       preserveAspectRatio="none"
+       id="image4530"
+       x="28.192852"
+       y="853.86365"
+       mask="none"
+       clip-path="url(#clipPath4244)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/makerbot.jpg"
+       xlink:href="makerbot.jpg"
+       transform="matrix(-1,0,0,1,579.82819,-4.6568543)"
+       clip-path="url(#clipPath4365)"
+       width="227.87259"
+       height="303.83011"
+       preserveAspectRatio="none"
+       id="image4360"
+       x="164.66377"
+       y="715.18524" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/maker.png"
+       xlink:href="characters/maker.png"
+       transform="translate(-4,18)"
+       clip-path="url(#clipPath4370)"
+       width="95.606003"
+       height="236.38583"
+       preserveAspectRatio="none"
+       id="image4716"
+       x="195.30829"
+       y="823.01221" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/8008925880_ed4a5fbbab_b.jpg"
+       xlink:href="8008925880_ed4a5fbbab_b.jpg"
+       transform="matrix(1.0468283,0,0,1.0468283,108.82985,-431.69492)"
+       clip-path="url(#clipPath4506)"
+       width="247.44319"
+       height="147.88597"
+       preserveAspectRatio="none"
+       id="image4501"
+       x="243.15857"
+       y="1091.4873" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/BIKER.png"
+       xlink:href="characters/BIKER.png"
+       clip-path="url(#clipPath4256)"
+       width="94.809288"
+       height="225.28281"
+       preserveAspectRatio="none"
+       id="image4592"
+       x="473.79251"
+       y="838.49384"
+       transform="translate(5.6568543,-9.899495)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/girl.png"
+       xlink:href="characters/girl.png"
+       y="397.93311"
+       x="28.821274"
+       id="image4344"
+       preserveAspectRatio="none"
+       height="218.41753"
+       width="148.46681" />
+    <rect
+       ry="3.7481022"
+       y="93.348763"
+       x="341.21814"
+       height="287.35455"
+       width="388.41138"
+       id="rect4458"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta_meeting.png"
+       xlink:href="vineta_meeting.png"
+       width="379.91611"
+       height="280.1799"
+       preserveAspectRatio="none"
+       id="image4455"
+       x="346.64374"
+       y="97.074814" />
+    <path
+       inkscape:transform-center-y="17.297915"
+       inkscape:transform-center-x="134.21902"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="use4413"
+       d="m 515.62151,386.69092 12.53189,0 c -1.21588,-13.8161 2.35327,-18.39599 7.02783,-24.74695 -13.94102,3.38451 -19.11989,11.46698 -19.55972,24.74695 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078" />
+    <rect
+       y="385.52814"
+       x="397.3111"
+       height="33.198437"
+       width="330.38443"
+       id="rect4311"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.27566528px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="415.71667"
+       y="406.8291"
+       id="text4322"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="415.71667"
+         y="406.8291"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.97787285px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan4343">Pero ... quiénes son ustedes? </tspan></text>
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/boy.png"
+       xlink:href="characters/boy.png"
+       y="406.52939"
+       x="597.55255"
+       id="image4282"
+       preserveAspectRatio="none"
+       height="209.20663"
+       width="143.56929" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="377.66769"
+       y="567.58228"
+       id="text4294-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="377.66769"
+         y="567.58228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan4338-5">Cada una de esas acciones individuales</tspan><tspan
+         sodipodi:role="line"
+         x="379.9491"
+         y="592.75647"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan4390">se convierte en un pequeño <tspan
+   style="-inkscape-font-specification:'Life Savers Bold';font-family:'Life Savers';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan5258"> acto de resistencia:</tspan></tspan></text>
   </g>
 </svg>
