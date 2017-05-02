@@ -84,6 +84,10 @@ padding: 20px;
   margin: 40px 0;
 }
 
+a{
+  cursor: pointer; 
+}
+
 p{
  line-height: 1.5;
 }
@@ -96,4 +100,14 @@ li {
 
 ul.contact{
   
+}
+
+
+.pic_and_text {
+  display: flex;
+  flex-direction: row;
+}
+
+.pic_and_text p {
+ margin-left: 20px; 
 }
