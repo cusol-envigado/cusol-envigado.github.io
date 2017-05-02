@@ -27,6 +27,7 @@ nav a {
     text-decoration: none;
     display: inline-block;
     flex: 0 0 auto;
+    cursor: pointer; 
 }
 
 header {
