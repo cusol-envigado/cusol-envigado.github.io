@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 765 990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="page03_en.svg"
+   inkscape:export-filename="/home/cesar/projects/cusol-envigado.github.io/art/pages/page03_en.png"
+   inkscape:export-xdpi="149.96021"
+   inkscape:export-ydpi="149.96021">
+  <defs
+     id="defs4">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4264">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.89005283"
+         d="m 433.366,401.30633 c -2.4516,10.05019 -4.71444,11.79796 8.57,30.42341 13.28446,18.62546 55.46918,26.45875 55.46918,26.45875 l 12.25411,78.25426 319.3985,-44.18858 -27.52077,-198.92223 -191.91926,26.55191 -95.95964,13.27595 c 0,0 -77.84052,58.09633 -80.29212,68.14653 z"
+         id="path4266"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zzccccccz" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3485">
+      <path
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 61.829142,709.36224 103.341718,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.341718,0 C 48.627797,1015.3622 38,1004.7344 38,991.5331 l 0,-258.34171 c 0,-13.20135 10.627797,-23.82915 23.829142,-23.82915 z"
+         id="path3487"
+         inkscape:connector-curvature="0" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4244">
+      <path
+         id="path4246"
+         d="m 61.895158,707.36223 103.341722,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34176 c 0,13.20126 -10.6278,23.82906 -23.82914,23.82906 l -103.341722,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.82906 l 0,-258.34176 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4256">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 435.66262,719.39168 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34167 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34167 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4258" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4262">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 631.12684,700.1196 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.82914 -23.82914,23.82914 l -103.34172,0 c -13.20134,0 -23.82914,-10.62784 -23.82914,-23.82914 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4264" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4365">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 239.38968,715.67595 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.20129 -10.6278,23.82909 -23.82914,23.82909 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.82909 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4367" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4370">
+      <path
+         id="path4372"
+         d="m 219.66262,692.39168 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34167 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34167 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         mask="none"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4506">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.49685537;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 288.71558,1063.2587 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.8291 l 0,258.3417 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.3417 c 0,-13.2013 10.6278,-23.8291 23.82914,-23.8291 z"
+         id="path4508" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4510">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.49685537;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -288.71558,1063.2587 -103.34172,0 c -13.20134,0 -23.82914,10.6278 -23.82914,23.8291 l 0,258.3417 c 0,13.2013 10.6278,23.8291 23.82914,23.8291 l 103.34172,0 c 13.20134,0 23.82914,-10.6278 23.82914,-23.8291 l 0,-258.3417 c 0,-13.2013 -10.6278,-23.8291 -23.82914,-23.8291 z"
+         id="path4512" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4595">
+      <path
+         id="path4597"
+         d="m 574.55829,704.36224 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.58490571;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         mask="none"
+         clip-path="none" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="428.82376"
+     inkscape:cy="634.17134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     borderlayer="true"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3436" />
+    <sodipodi:guide
+       position="744,966"
+       orientation="1,0"
+       id="guide4216" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
+       id="rect3420"
+       width="765.15826"
+       height="992.06329"
+       x="1.4208679"
+       y="-2.0316467" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.362205)">
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/Earthship-construction17_(17302043844).jpg"
+       xlink:href="Earthship-construction17_(17302043844).jpg"
+       y="705.42468"
+       x="414.20471"
+       id="image4592-3"
+       preserveAspectRatio="none"
+       height="293.3732"
+       width="438.6889"
+       clip-path="url(#clipPath4595)"
+       transform="translate(22.627417,7.7781746)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/Bicycle_in_The_Hague_36.JPG"
+       xlink:href="Bicycle_in_The_Hague_36.JPG"
+       y="1234.9296"
+       x="-415.99417"
+       id="image4436"
+       preserveAspectRatio="none"
+       height="164.87944"
+       width="164.39636"
+       transform="matrix(-1.0655596,0,0,1.0655596,102.86819,-449.09118)"
+       clip-path="url(#clipPath4510)" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4274"
+       width="245.27486"
+       height="305.11603"
+       x="29.870058"
+       y="93.348755"
+       ry="3.9797735" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4278"
+       width="707.10681"
+       height="175.16147"
+       x="28.28426"
+       y="439.72348"
+       ry="2.2847147" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="389.03668"
+       y="466.70227"
+       id="text4294"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="391.31808"
+         y="466.70227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan4336">We are people that also felt unconfortable </tspan><tspan
+         sodipodi:role="line"
+         x="391.31808"
+         y="491.87646"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan6570">and we started to generate changes, </tspan><tspan
+         sodipodi:role="line"
+         x="391.31808"
+         y="517.05066"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan4338">each one since their own fields of interest. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.349869"
+       y="654.18671"
+       id="text4340"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="41.349869"
+         y="654.18671"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan4370">When you </tspan><tspan
+         sodipodi:role="line"
+         x="41.349869"
+         y="676.99915"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan6591">grow food in </tspan><tspan
+         sodipodi:role="line"
+         x="41.349869"
+         y="699.81165"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan6593">an  urban farm</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4346"
+       y="650.69177"
+       x="205.97125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="650.69177"
+         x="205.97125"
+         sodipodi:role="line"
+         id="tspan6608">When you build </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="673.50421"
+         x="205.97125"
+         sodipodi:role="line"
+         id="tspan6610">and share things</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="696.31671"
+         x="205.97125"
+         sodipodi:role="line"
+         id="tspan6618">instead of buying</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="386.9093"
+       y="656.29193"
+       id="text4380"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="386.9093"
+         y="656.29193"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan4393">When you move in</tspan><tspan
+         sodipodi:role="line"
+         x="386.9093"
+         y="679.10437"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan6626">bike every day</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4395"
+       y="653.24133"
+       x="579.9364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.01962662px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="653.24133"
+         x="579.9364"
+         sodipodi:role="line"
+         id="tspan4466">When you build</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="676.05377"
+         x="579.9364"
+         sodipodi:role="line"
+         id="tspan6633">your house with</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24996567px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="698.86627"
+         x="579.9364"
+         sodipodi:role="line"
+         id="tspan6635">your own hands</tspan></text>
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta_planta.png"
+       xlink:href="vineta_planta.png"
+       y="91.849792"
+       x="28.01231"
+       id="image4256"
+       preserveAspectRatio="none"
+       height="326.27725"
+       width="362.53027" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4460"
+       width="1"
+       height="4"
+       x="849"
+       y="359.36221" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/biocons.png"
+       xlink:href="characters/biocons.png"
+       y="841.00403"
+       x="642.33777"
+       id="image4654"
+       preserveAspectRatio="none"
+       height="217.52344"
+       width="123.49109"
+       clip-path="url(#clipPath4262)"
+       transform="translate(-3.6568543,10.928932)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/references/urban_farming.jpg"
+       xlink:href="references/urban_farming.jpg"
+       mask="url(#mask3485)"
+       width="207.375"
+       height="368.66666"
+       preserveAspectRatio="none"
+       id="image3477"
+       x="11.312499"
+       y="664.02887" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/agro.png"
+       xlink:href="characters/agro.png"
+       clip-path="url(#clipPath4244)"
+       mask="none"
+       y="853.86365"
+       x="28.192852"
+       id="image4530"
+       preserveAspectRatio="none"
+       height="229.35478"
+       width="111.55994"
+       transform="translate(-3,-1)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/makerbot.jpg"
+       xlink:href="makerbot.jpg"
+       y="715.18524"
+       x="164.66377"
+       id="image4360"
+       preserveAspectRatio="none"
+       height="303.83011"
+       width="227.87259"
+       clip-path="url(#clipPath4365)"
+       transform="matrix(-1,0,0,1,579.82819,-4.6568543)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/maker.png"
+       xlink:href="characters/maker.png"
+       y="823.01221"
+       x="195.30829"
+       id="image4716"
+       preserveAspectRatio="none"
+       height="236.38583"
+       width="95.606003"
+       clip-path="url(#clipPath4370)"
+       transform="translate(-4,18)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/8008925880_ed4a5fbbab_b.jpg"
+       xlink:href="8008925880_ed4a5fbbab_b.jpg"
+       y="1091.4873"
+       x="243.15857"
+       id="image4501"
+       preserveAspectRatio="none"
+       height="147.88597"
+       width="247.44319"
+       clip-path="url(#clipPath4506)"
+       transform="matrix(1.0468283,0,0,1.0468283,108.82985,-431.69492)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/BIKER.png"
+       xlink:href="characters/BIKER.png"
+       transform="translate(5.6568543,-9.899495)"
+       y="838.49384"
+       x="473.79251"
+       id="image4592"
+       preserveAspectRatio="none"
+       height="225.28281"
+       width="94.809288"
+       clip-path="url(#clipPath4256)" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/girl.png"
+       xlink:href="characters/girl.png"
+       width="148.46681"
+       height="218.41753"
+       preserveAspectRatio="none"
+       id="image4344"
+       x="28.821274"
+       y="397.93311" />
+    <rect
+       ry="3.7481022"
+       y="93.348763"
+       x="341.21814"
+       height="287.35455"
+       width="388.41138"
+       id="rect4458"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/vineta_meeting.png"
+       xlink:href="vineta_meeting.png"
+       y="97.074814"
+       x="346.64374"
+       id="image4455"
+       preserveAspectRatio="none"
+       height="280.1799"
+       width="379.91611" />
+    <path
+       inkscape:transform-center-y="17.297915"
+       inkscape:transform-center-x="134.21902"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="use4413"
+       d="m 515.62151,386.69092 12.53189,0 c -1.21588,-13.8161 2.35327,-18.39599 7.02783,-24.74695 -13.94102,3.38451 -19.11989,11.46698 -19.55972,24.74695 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078" />
+    <rect
+       y="385.52814"
+       x="397.3111"
+       height="33.198437"
+       width="330.38443"
+       id="rect4311"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.71757926;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.27566528px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="415.71667"
+       y="406.8291"
+       id="text4322"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="415.71667"
+         y="406.8291"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.97787285px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan4343">But ... who are you? </tspan></text>
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/boy.png"
+       xlink:href="characters/boy.png"
+       width="143.56929"
+       height="209.20663"
+       preserveAspectRatio="none"
+       id="image4282"
+       x="597.55255"
+       y="406.52939" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="377.66769"
+       y="567.58228"
+       id="text4294-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="379.9491"
+         y="567.58228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan4338-5">Each one of those individual actions </tspan><tspan
+         sodipodi:role="line"
+         x="377.66769"
+         y="592.75647"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan4390">becomes a small  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold'"
+   id="tspan5258">resistence act:</tspan></tspan></text>
+  </g>
+</svg>

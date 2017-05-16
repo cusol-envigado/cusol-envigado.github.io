@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 765 990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="page04_en.svg"
+   inkscape:export-filename="/home/cesar/projects/cusol-envigado.github.io/art/pages/page04_en.png"
+   inkscape:export-xdpi="149.96021"
+   inkscape:export-ydpi="149.96021">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 495 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="765 : 495 : 1"
+       inkscape:persp3d-origin="382.5 : 330 : 1"
+       id="perspective4513" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4264">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.89005283"
+         d="m 433.366,401.30633 c -2.4516,10.05019 -4.71444,11.79796 8.57,30.42341 13.28446,18.62546 55.46918,26.45875 55.46918,26.45875 l 12.25411,78.25426 319.3985,-44.18858 -27.52077,-198.92223 -191.91926,26.55191 -95.95964,13.27595 c 0,0 -77.84052,58.09633 -80.29212,68.14653 z"
+         id="path4266"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zzccccccz" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3485">
+      <path
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 61.829142,709.36224 103.341718,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.341718,0 C 48.627797,1015.3622 38,1004.7344 38,991.5331 l 0,-258.34171 c 0,-13.20135 10.627797,-23.82915 23.829142,-23.82915 z"
+         id="path3487"
+         inkscape:connector-curvature="0" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4244">
+      <path
+         id="path4246"
+         d="m 61.895158,707.36223 103.341722,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34176 c 0,13.20126 -10.6278,23.82906 -23.82914,23.82906 l -103.341722,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.82906 l 0,-258.34176 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4256">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 435.66262,719.39168 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34167 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34167 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4258" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4262">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 631.12684,700.1196 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.82914 -23.82914,23.82914 l -103.34172,0 c -13.20134,0 -23.82914,-10.62784 -23.82914,-23.82914 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4264" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4365">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 239.38968,715.67595 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.20129 -10.6278,23.82909 -23.82914,23.82909 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.82909 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         id="path4367" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4370">
+      <path
+         id="path4372"
+         d="m 219.66262,692.39168 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34167 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34167 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         mask="none"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4506">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.49685537;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 288.71558,1063.2587 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.8291 l 0,258.3417 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.3417 c 0,-13.2013 10.6278,-23.8291 23.82914,-23.8291 z"
+         id="path4508" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4510">
+      <path
+         clip-path="none"
+         mask="none"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.49685537;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -288.71558,1063.2587 -103.34172,0 c -13.20134,0 -23.82914,10.6278 -23.82914,23.8291 l 0,258.3417 c 0,13.2013 10.6278,23.8291 23.82914,23.8291 l 103.34172,0 c 13.20134,0 23.82914,-10.6278 23.82914,-23.8291 l 0,-258.3417 c 0,-13.2013 -10.6278,-23.8291 -23.82914,-23.8291 z"
+         id="path4512" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4595">
+      <path
+         id="path4597"
+         d="m 574.55829,704.36224 103.34172,0 c 13.20134,0 23.82914,10.6278 23.82914,23.82915 l 0,258.34171 c 0,13.2013 -10.6278,23.8291 -23.82914,23.8291 l -103.34172,0 c -13.20134,0 -23.82914,-10.6278 -23.82914,-23.8291 l 0,-258.34171 c 0,-13.20135 10.6278,-23.82915 23.82914,-23.82915 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.58490571;stroke:#333333;stroke-width:2.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         mask="none"
+         clip-path="none" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="349.4449"
+     inkscape:cy="709.55909"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     borderlayer="true"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3436" />
+    <sodipodi:guide
+       position="744,966"
+       orientation="1,0"
+       id="guide4216" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
+       id="rect3420"
+       width="765.15826"
+       height="992.06329"
+       x="1.4208679"
+       y="-2.0316467" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.362205)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="741.61731"
+       y="735.64551"
+       id="text4294"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="746.18011"
+         y="735.64551"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan4338">I may contribute too! in my case, </tspan><tspan
+         sodipodi:role="line"
+         x="741.61731"
+         y="760.8197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7403">by promoting <tspan
+   style="font-weight:bold"
+   id="tspan7415">free software </tspan>philosophy:</tspan><tspan
+         sodipodi:role="line"
+         x="746.18011"
+         y="785.9939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan4568">I want that people understand </tspan><tspan
+         sodipodi:role="line"
+         x="746.18011"
+         y="811.16809"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7417">that computer programs don't need </tspan><tspan
+         sodipodi:role="line"
+         x="741.61731"
+         y="836.34235"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7419">to below only to corporations,</tspan><tspan
+         sodipodi:role="line"
+         x="741.61731"
+         y="861.51654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7421">forcing us to pay themfor its use,</tspan><tspan
+         sodipodi:role="line"
+         x="746.18011"
+         y="886.69073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7423">consume their publicity </tspan><tspan
+         sodipodi:role="line"
+         x="741.61731"
+         y="911.86493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7425">or giving away our privacy.</tspan><tspan
+         sodipodi:role="line"
+         x="746.18011"
+         y="937.03912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan4586">I want a community of users empowered of </tspan><tspan
+         sodipodi:role="line"
+         x="746.18011"
+         y="962.21332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7458">their tools and their information, putting </tspan><tspan
+         sodipodi:role="line"
+         x="746.18011"
+         y="987.38751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7464">technology at the service of social causes. </tspan><tspan
+         sodipodi:role="line"
+         x="741.61731"
+         y="1012.5618"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13936234px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+         id="tspan7462" /></text>
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/machines/cow_factory.png"
+       xlink:href="machines/cow_factory.png"
+       width="391.64999"
+       height="454.95001"
+       preserveAspectRatio="none"
+       id="image4325"
+       x="350.06146"
+       y="249.30231" />
+    <rect
+       y="91.371758"
+       x="22.544504"
+       height="144.9213"
+       width="716.46472"
+       id="rect4311"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.77843857px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="147.9449"
+       y="122.7018"
+       id="text4322"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="147.9449"
+         y="122.7018"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan4523">I see! each action withdraws to corporations the monopoly over </tspan><tspan
+         sodipodi:role="line"
+         x="147.9449"
+         y="146.20613"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan7358">food production, mobility, architecture and others.. </tspan></text>
+    <rect
+       ry="0"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196078"
+       id="rect4328"
+       width="317.65649"
+       height="126.53651"
+       x="21.130283"
+       y="409.56982" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/machines/software_corporation.png"
+       xlink:href="machines/software_corporation.png"
+       width="415.62921"
+       height="469.20251"
+       preserveAspectRatio="none"
+       id="image4279"
+       x="5.6311445"
+       y="537.98932" />
+    <image
+       sodipodi:absref="/home/cesar/projects/cusol-envigado.github.io/art/characters/boy_talking.png"
+       xlink:href="characters/boy_talking.png"
+       width="291.87735"
+       height="283.54568"
+       preserveAspectRatio="none"
+       id="image4510"
+       x="22.352755"
+       y="120.044" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4525"
+       y="187.7018"
+       x="169.9449"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.77843857px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="187.7018"
+         x="169.9449"
+         sodipodi:role="line"
+         id="tspan4541">giving back that knowledge to the community and individuals, </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="211.20613"
+         x="169.9449"
+         sodipodi:role="line"
+         id="tspan7362">empowering us to act outside of the corporative logic!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.77843857px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.944901"
+       y="443.70181"
+       id="text4543"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="26.944901"
+         y="443.70181"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan7393">When 'efficiency' leaves its place to</tspan><tspan
+         sodipodi:role="line"
+         x="26.944901"
+         y="467.20615"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan7397"> the common welfare, we slow down </tspan><tspan
+         sodipodi:role="line"
+         x="26.944901"
+         y="490.71048"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan7399">our life's rhythm, restoring the </tspan><tspan
+         sodipodi:role="line"
+         x="26.944901"
+         y="514.21478"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.80346107px;line-height:125%;font-family:'Life Savers';-inkscape-font-specification:'Life Savers Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="tspan7401">social tissue within our communities. </tspan></text>
+  </g>
+</svg>
